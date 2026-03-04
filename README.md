@@ -12,6 +12,11 @@
 git clone https://github.com/buj17/selenium_sample_github
 ```
 
+#### Перейти в директорию с проектом
+```bash
+cd selenium_sample_github
+```
+
 #### Установить зависимости
 ```bash
 uv sync
